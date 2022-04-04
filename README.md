@@ -1,1 +1,1 @@
-# web-scraping
+# This repo will include various workflows for web scraping to automate data extraction and visualization workflows. This is primarily for personal endeavors that will lead into academic endeavors. Initial idea is to pull swell data from multiple buoys off Oregon/Washington Coast to determine days that are good for surfing, days that are good for diving, or neither. 
